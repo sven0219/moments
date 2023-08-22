@@ -19,17 +19,10 @@ tags:
 # 附加信息类型1:单个图片
 pictures:
   - https://p8.itc.cn/images01/20210119/628400a0528c4dc696efdac8749b176d.jpeg
-# 附加信息类型2:网页链接
-# link：必填，网页链接；
-# link_text：必填，链接显示的文字；
-# link_logo：选填，网页logo，现在支持部分网站自动找到对应图标，无需自己添加图标
-link: https://www.svenshen.com/
-link_text: Call Me Sven
-link_logo: 
 
 # 备注信息
 note:
 ---
 
 <!-- 下面开始写正文 -->
-这是我的第一条moment
+这是我的第一条moment, 我的个人网站[Call Me Sven](https://svenshen.com)
