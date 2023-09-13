@@ -9,24 +9,25 @@ name:
 avatar:
 
 # 发布时间
-date: 2023-08-22T13:54:33+08:00
+date: 2023-09-13T15:36:58+08:00
 
 # 给Moment添加标签
 tags:
- - Music
- - Share
+ - challenge
+ - work
+ - english
 
 # 附加信息（选填1项或者不填写）
 # 附加信息类型1:单个图片
 pictures:
- - 
+ - /img/challenge.png 
 
 # 附加信息类型2:网页链接
 # link：必填，网页链接；
 # link_text：必填，链接显示的文字；
 # link_logo：选填，网页logo，现在支持部分网站自动找到对应图标，无需自己添加图标
-link: https://music.163.com/song?id=1304922069
-link_text: 水手公园
+link:
+link_text:
 link_logo:
 
 # 备注信息
@@ -35,3 +36,4 @@ note:
 
 <!-- 下面开始写正文 -->
 
+It's a big challenge to me that next project's language is all-English.
